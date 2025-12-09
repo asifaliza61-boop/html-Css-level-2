@@ -1,0 +1,145 @@
+table{
+    width: 100%;
+    background-color: #3CB371;
+    color: snow;
+     border: 1px solid white;
+    box-shadow: 2px 2px 8px  rgb(17, 136, 31);
+    border-radius: 10px;
+}
+
+td.nimg{
+    padding: 10px 20px;
+}
+
+td.nimg img{
+    width: 100px;
+}
+td.links{
+    font-size: 18px;
+    text-align: right;
+    padding: 10px 20px;
+}
+
+td.links a{
+    text-decoration: none;
+    color: white;
+    margin-left: 10px;
+}
+
+section div.content{
+    color:#3CB371;
+}
+
+div.register{
+    background-color: #3CB371;
+    color: whitesmoke;
+    width: 30%;
+    height: 20%;
+    border-radius: 10px;
+    border: 1px solid #e8e8e8;
+    box-shadow: 2px 2px 10px  rgb(17, 136, 31);
+    font-size: 18px;
+}
+
+form#register{
+    margin: 40px;
+}
+
+label{
+    font-family:serif ;
+   font-style: italic;
+   font-size: 21px;
+}
+
+input#name{
+    width: 208px;
+    border: 1px solid #ddd;
+    border-radius: 3px ;
+    outline: none;
+    padding: 5px;
+    border-color: rgb(7, 168, 7);
+    box-shadow: 2px 2px 10px rgba(245, 245, 245, 0.422);
+}
+input#submit{
+    width: 200px;
+    padding: 5px;
+    font-size: 20px ;
+    border: 1px solid #ddd;
+    border-radius: 3px ;
+    color: green;
+    background-color: #fffbfb;
+    cursor: pointer;
+    font-family:serif ;
+    font-style: italic;
+    box-shadow: 2px 2px 10px rgba(245, 245, 245, 0.422);
+}
+section.hey{
+     background-color: #3CB371;
+    border-radius: 10px;
+    border: 1px solid #e8e8e8;
+    box-shadow: 2px 2px 10px  rgb(17, 136, 31);
+}
+div.contenth{
+    color: white;
+}
+
+.contanier{
+    display: flex;
+    justify-content: center;
+    box-sizing: border-box;
+}
+.card1{
+    background-color: whitesmoke;
+    width: 300px;
+    color: green;
+    flex-wrap: wrap;
+    margin: 10px;
+    border-radius: 15px;
+}
+.card-img{
+    height: 150px;
+    margin-bottom: 15px;
+    background-size: cover;
+    border-radius: 15px 15px 0 0;
+}
+
+.doc1{
+    background-image: url('doc\ 1.jpg');
+}
+.doc2{
+    background-image: url('doc\ 2.jpg');
+}
+
+.doc3{
+    background-image: url('doc\ 3.avif');
+}
+.card1 h2{
+      padding: 10px;
+       font-family:serif ;
+    font-style: italic;
+}
+
+.card1 p{
+      padding: 10px;
+       font-family:serif ;
+    font-style: italic;
+}
+.card1 a{
+    background-color:#3CB371;
+    color: #fffbfb;
+    padding: 15px 20px;
+    display: block;
+    text-align: center;
+    margin: 20px 50px;
+    text-decoration: none;
+     font-family:serif ;
+    font-style: italic;
+    
+}
+
+footer p{
+     font-family:serif ;
+    font-style: italic;
+   color:#3CB371;
+   font-size: 18px;
+}
