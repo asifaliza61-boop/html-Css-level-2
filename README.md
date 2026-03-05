@@ -16,7 +16,9 @@ Appointment Date (input type="date").
 The form should be styled with a light background and a subtle shadow to make it stand out.
 Services Section:
 
-Add a section title: “Our Services”.
+Add a section 
+
+title: “Our Services”.
 Below the title, include a subtitle: “We know managing your health can be stressful, so we have everything in one place!”.
 Display three service cards: Health Care, Dental, and OPD services.
 Each card should contain an image at the top.
